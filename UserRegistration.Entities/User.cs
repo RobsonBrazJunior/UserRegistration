@@ -1,10 +1,10 @@
 ﻿namespace UserRegistration.Entities
 {
-    public class User
+    public class Usuario
     {
         public int Id { get; set; }
 
-        public string Name { get; set; }
+        public string Nome { get; set; }
 
         public string CPF { get; set; }
 
